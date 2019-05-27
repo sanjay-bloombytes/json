@@ -1,0 +1,2147 @@
+[
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "GAIN_LOSS_SALE_AST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "UNCLASS_INV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "GRS_INV_INC",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "ACCTNG_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "ADJUSTMENTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "ADV_PROM",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "CONTRACT_ADMIN_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "CORRECTIVE_DISTRIB",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "DEEMED_DISTR_PART_LNS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "DEP_DEPLETION_AMOR",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "DISTRIB_DRT_PARTCP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "EMPLR_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "EMPLR_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "EMPLR_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "FED_CAMPAIGNS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GAIN_LOSS_SALE_AST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GOVERNMENT_GRANTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "GRANTS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INC_RELATED_ORG",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INF_TECH",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INSURANCE",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INS_CARRIER_BNFTS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INTERPLAN_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INTRPLN_ACT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INT_EXPENSE",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INVST_MGMT_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "INV_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "LEGAL_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "MAT_SUPP_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "MEMBERSHIP_DUES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "NET INCOME_GAMING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "NET INCOME_SALES_INVENTORY",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "NET_INC_FUNDRAISING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OFFICE_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTHER_ADMIN_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTHER_INCOME",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTHR_REAL_EST_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTH_BNFT_PAYMENT",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTH_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTH_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTH_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "OTH_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "PARTICIPANTS_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "PARTICIPANTS_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "PARTICIPANTS_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "PER_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "PROFESSIONAL_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "PROG_SERVC_REV",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "REF_WITHDRAWALS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "RENTAL_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "RENT_LEASES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "REP_MAINT_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "ROYALTIES_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "ROYALTIES_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "SEC_LEND_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "SLA_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "SUBSIDIES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "TRANSFERS_FROM",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "TRANSFERS_TO",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "TRAVEL",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "UNCLASS_INV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_ADD_DEDUC",
+    "included_code": "UTILITIES_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "ACCTNG_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "ADJUSTMENTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "ADV_PROM",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "CONTRACT_ADMIN_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "CORRECTIVE_DISTRIB",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "DEEMED_DISTR_PART_LNS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "DEP_DEPLETION_AMOR",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "DISTRIB_DRT_PARTCP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "EMPLR_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "EMPLR_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "EMPLR_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "FED_CAMPAIGNS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GAIN_LOSS_SALE_AST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GOVERNMENT_GRANTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "GRANTS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INC_RELATED_ORG",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INF_TECH",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INSURANCE",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INS_CARRIER_BNFTS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INTERPLAN_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INTRPLN_ACT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INT_EXPENSE",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INVST_MGMT_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "INV_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "LEGAL_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "MAT_SUPP_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "MEMBERSHIP_DUES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "NET INCOME_GAMING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "NET INCOME_SALES_INVENTORY",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "NET_FP_BOP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "NET_INC_FUNDRAISING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OFFICE_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTHER_ADMIN_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTHER_INCOME",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTHR_REAL_EST_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTH_BNFT_PAYMENT",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTH_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTH_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTH_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "OTH_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "PARTICIPANTS_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "PARTICIPANTS_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "PARTICIPANTS_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "PER_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "PROFESSIONAL_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "PROG_SERVC_REV",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "REF_WITHDRAWALS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "RENTAL_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "RENT_LEASES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "REP_MAINT_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "RESTATEMENT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "ROYALTIES_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "ROYALTIES_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "SEC_LEND_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "SLA_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "SUBSIDIES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "TRANSFERS_FROM",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "TRANSFERS_TO",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "TRAVEL",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "UNCLASS_INV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_FP_EOP",
+    "included_code": "UTILITIES_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "ACCTNG_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "ADV_PROM",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "CONTRACT_ADMIN_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "CORRECTIVE_DISTRIB",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "DEEMED_DISTR_PART_LNS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "DEP_DEPLETION_AMOR",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "DISTRIB_DRT_PARTCP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "EMPLR_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "EMPLR_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "EMPLR_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "FED_CAMPAIGNS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GAIN_LOSS_SALE_AST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GOVERNMENT_GRANTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "GRANTS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INC_RELATED_ORG",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INF_TECH",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INSURANCE",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INS_CARRIER_BNFTS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INTERPLAN_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INTRPLN_ACT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INT_EXPENSE",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INVST_MGMT_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "INV_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "LEGAL_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "MAT_SUPP_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "MEMBERSHIP_DUES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "NET INCOME_GAMING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "NET INCOME_SALES_INVENTORY",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "NET_INC_FUNDRAISING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OFFICE_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTHER_ADMIN_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTHER_INCOME",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTHR_REAL_EST_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTH_BNFT_PAYMENT",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTH_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTH_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTH_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "OTH_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "PARTICIPANTS_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "PARTICIPANTS_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "PARTICIPANTS_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "PER_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "PROFESSIONAL_FEES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "PROG_SERVC_REV",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "REF_WITHDRAWALS",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "RENTAL_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "RENT_LEASES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "REP_MAINT_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "ROYALTIES_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "ROYALTIES_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "SEC_LEND_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "SLA_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "SUBSIDIES",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "TRAVEL",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "UNCLASS_INV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INCOME",
+    "included_code": "UTILITIES_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "GAIN_LOSS_SALE_AST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "INV_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "UNCLASS_INV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_INV_INC_BFR_SLA",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NET_TRANSFER_ASSETS",
+    "included_code": "TRANSFERS_FROM",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "NET_TRANSFER_ASSETS",
+    "included_code": "TRANSFERS_TO",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NI_FROM_SLA",
+    "included_code": "SEC_LEND_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "NI_FROM_SLA",
+    "included_code": "SLA_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "REST_NET_FP_BOP",
+    "included_code": "NET_FP_BOP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "REST_NET_FP_BOP",
+    "included_code": "RESTATEMENT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_DIVIDENDS",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_DIVIDENDS",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_DIVIDENDS",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_DIVIDENDS",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_INTEREST",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_INTEREST",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_INTEREST",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_INTEREST",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_INTEREST",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOTAL_INTEREST",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "ACCTNG_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "CONTRACT_ADMIN_FEES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "INF_TECH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "INSURANCE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "LEGAL_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "MAT_SUPP_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "OFFICE_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "OTHER_ADMIN_FEES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "PROFESSIONAL_FEES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "RENT_LEASES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "REP_MAINT_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "TRAVEL",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_ADMIN_EXPENSES",
+    "included_code": "UTILITIES_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "EMPLR_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "EMPLR_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "EMPLR_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "GOVERNMENT_GRANTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "OTH_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "OTH_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "OTH_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "PARTICIPANTS_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "PARTICIPANTS_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_CONTRIB",
+    "included_code": "PARTICIPANTS_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_DISTRIB_BNFT",
+    "included_code": "DISTRIB_DRT_PARTCP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_DISTRIB_BNFT",
+    "included_code": "INS_CARRIER_BNFTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_DISTRIB_BNFT",
+    "included_code": "OTH_BNFT_PAYMENT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "GAIN_LOSS_SALE_AST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "INV_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "SEC_LEND_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "SLA_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "UNCLASS_INV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EARNING_ON_INV",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EMPLR_CONTRIB",
+    "included_code": "EMPLR_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EMPLR_CONTRIB",
+    "included_code": "EMPLR_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EMPLR_CONTRIB",
+    "included_code": "EMPLR_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "ACCTNG_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "ADV_PROM",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "CONTRACT_ADMIN_FEES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "CORRECTIVE_DISTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "DEEMED_DISTR_PART_LNS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "DEP_DEPLETION_AMOR",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "DISTRIB_DRT_PARTCP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "GRANTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "INF_TECH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "INSURANCE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "INS_CARRIER_BNFTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "INTERPLAN_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "INT_EXPENSE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "INVST_MGMT_FEES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "LEGAL_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "MAT_SUPP_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "OFFICE_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "OTHER_ADMIN_FEES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "OTH_BNFT_PAYMENT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "OTH_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "PER_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "PROFESSIONAL_FEES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "REF_WITHDRAWALS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "RENT_LEASES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "REP_MAINT_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "ROYALTIES_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "SUBSIDIES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "TRAVEL",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_EXPENSES",
+    "included_code": "UTILITIES_EXP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "DIVND_COMMON_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "DIVND_PREF_STOCK",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "EMPLR_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "EMPLR_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "EMPLR_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "FED_CAMPAIGNS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GAIN_LOSS_SALE_AST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "GOVERNMENT_GRANTS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INC_RELATED_ORG",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INTRPLN_ACT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INT_ON_CORP_DEBT",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INT_ON_GOVT_SEC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INT_ON_INT_BEAR_CASH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INT_ON_OTH_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INT_ON_PARTCP_LOANS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "INV_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "MEMBERSHIP_DUES",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "NET INCOME_GAMING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "NET INCOME_SALES_INVENTORY",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "NET_INC_FUNDRAISING",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "OTHER_INCOME",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "OTHR_REAL_EST_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "OTH_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "OTH_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "OTH_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "PARTICIPANTS_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "PARTICIPANTS_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "PARTICIPANTS_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "PROG_SERVC_REV",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "REGISTERED_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "RENTAL_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "ROYALTIES_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "SEC_LEND_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "SLA_EXP",
+    "multiplying_factor": -1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "UNCLASS_DIV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "UNCLASS_INT_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "UNCLASS_INV_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_INCOME",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_NET_INV_INC",
+    "included_code": "GAIN_LOSS_103_12_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_NET_INV_INC",
+    "included_code": "GAIN_LOSS_COM_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_NET_INV_INC",
+    "included_code": "GAIN_LOSS_MASTER_TRUST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_NET_INV_INC",
+    "included_code": "GAIN_LOSS_OTHER_ASSETS",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_NET_INV_INC",
+    "included_code": "GAIN_LOSS_POOL_SEP",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_NET_INV_INC",
+    "included_code": "GAIN_LOSS_REG_INVST",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_OTH_CONTRIB",
+    "included_code": "OTH_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_OTH_CONTRIB",
+    "included_code": "OTH_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_OTH_CONTRIB",
+    "included_code": "OTH_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_PARTICIPANTS_CONTRIB",
+    "included_code": "PARTICIPANTS_CASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_PARTICIPANTS_CONTRIB",
+    "included_code": "PARTICIPANTS_NONCASH_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_PARTICIPANTS_CONTRIB",
+    "included_code": "PARTICIPANTS_UNCLASS_CONTRIB",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_REAL_EST_INCOME",
+    "included_code": "OTHR_REAL_EST_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_REAL_EST_INCOME",
+    "included_code": "RENTAL_INC",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_UNREALZD_APPRCTN",
+    "included_code": "UNREALZD_APPRCTN_OTH",
+    "multiplying_factor": 1
+  },
+  {
+    "standard_code": "TOT_UNREALZD_APPRCTN",
+    "included_code": "UNREALZD_APPRCTN_RE",
+    "multiplying_factor": 1
+  }
+]
